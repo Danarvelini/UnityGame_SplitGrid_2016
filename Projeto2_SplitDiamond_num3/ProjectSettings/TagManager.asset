@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - enemy
+  - lamparina
+  - player02
+  - player01
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SpriteWalls_Ly
+  - Characters_Ly
+  - LoopEne_Ly
+  - Boundary_Ly
+  - Item_Ly
+  - FollowEne_Ly
+  - GuardEne_Ly
+  - PatrolEne_Ly
+  - REneZone_Ly
+  - RWallsZone_Ly
+  - WallsWShdw_Ly
+  - WallsOneWay_Ly
+  - PointEfec_Ly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 1040842665
+    locked: 0
+  - name: Walls
+    uniqueID: 799458535
+    locked: 0
